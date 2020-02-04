@@ -1,1 +1,1 @@
-# Model are defined in this folder
+# Models are defined in this folder
